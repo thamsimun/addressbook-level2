@@ -297,6 +297,9 @@
 || 
 || 0 persons listed!
 || ===================================================
+|| Enter command: || [Command entered:  print]
+|| Hi, this is address book level 2.
+|| ===================================================
 || Enter command: || [Command entered:  exit]
 || Exiting Address Book as requested ...
 || ===================================================
